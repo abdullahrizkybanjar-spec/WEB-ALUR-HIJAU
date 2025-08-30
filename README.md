@@ -1,4 +1,3 @@
-# WEB-ALUR-HIJAU[deepseek_html_20250829_ba6126 (1).html](https://github.com/user-attachments/files/22059362/deepseek_html_20250829_ba6126.1.html)
 <!DOCTYPE html>
 <html lang="id">
 <head>
